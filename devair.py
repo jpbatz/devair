@@ -1,7 +1,7 @@
 import os, sys
 import glob
 
-# for Mike: create a list of files to restart voip services
+# for Mike M.: create a list of files to restart voip services
 # - input is the directory list of origin and destination pipes
 # - each restart command should include the forward and reverse airports
 #      in the order listed
