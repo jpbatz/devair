@@ -1,0 +1,14 @@
+total 8
+-rw-r--r--  1 jph  staff    0 Mar 23 00:53 airports
+-rwxr-xr-x@ 1 jph  staff  597 Mar 23 00:51 devair.py
+-rw-r--r--  1 jph  staff    0 Mar 22 02:58 voice.pipe.AIR-HNL1.AIR-ANC2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:58 voice.pipe.AIR-HNL1.AIR-JFK2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:59 voice.pipe.AIR-HNL1.AIR-LAX2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:59 voice.pipe.AIR-HNL1.AIR-SAC2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:59 voice.pipe.AIR-HNL1.AIR-SEA2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:59 voice.pipe.AIR-HNL1.AIR-SFO2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:59 voice.pipe.AIR-JFK1.AIR-HNL2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:59 voice.pipe.AIR-LAX1.AIR-HNL2
+-rw-r--r--  1 jph  staff    0 Mar 22 02:59 voice.pipe.AIR-SAC1.AIR-HNL2
+-rw-r--r--  1 jph  staff    0 Mar 22 03:00 voice.pipe.AIR-SEA1.AIR-HNL2
+-rw-r--r--  1 jph  staff    0 Mar 22 03:00 voice.pipe.AIR-SFO1.AIR-HNL2
